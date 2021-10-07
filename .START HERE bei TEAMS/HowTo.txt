@@ -1,0 +1,5 @@
+### HowTo zu den Links 1 , 2 , 3 ###
+
+[I]    Im EIGENEN Tenant anmelden.
+[II]   Links anklicken.
+[III]  Inhalt wird für das eigene M365 interpretiert.
